@@ -1,2 +1,2 @@
-rootProject.name = "InnerC"
+rootProject.name = "innerc"
 
